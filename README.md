@@ -1,4 +1,5 @@
 Compile all files using *.java
+
 Run the Server.java (once) first then run Main.java(run as many times)
 
 Server:
